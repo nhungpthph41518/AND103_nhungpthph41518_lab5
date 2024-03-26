@@ -14,6 +14,7 @@ public class Distributor {
         this.updatedAt = updatedAt;
     }
 
+
     public Distributor() {
     }
 

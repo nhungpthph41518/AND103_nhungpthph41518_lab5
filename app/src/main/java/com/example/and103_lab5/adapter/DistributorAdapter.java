@@ -56,6 +56,7 @@ public class DistributorAdapter extends RecyclerView.Adapter<DistributorAdapter.
         });
     }
 
+
     @Override
     public int getItemCount() {
         return list.size();

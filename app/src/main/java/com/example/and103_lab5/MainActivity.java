@@ -83,6 +83,7 @@ public class MainActivity extends AppCompatActivity implements DistributorAdapte
                 showDialogAdd();
             }
         });
+
     }
     private void showDialogAdd() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
